@@ -150,11 +150,14 @@ This project is licensed under the MIT License.
 
 ### Ashish Kumar Prajapati
 
-* GitHub: https://github.com/codertheashish
-* LinkedIn: https://www.linkedin.com/in/ashish-kumar-prajapati-3b6858301
-
+- GitHub :
+[codertheashish](https://github.com/codertheashish)
+- LinkedIn :
+[codertheashish](https://www.linkedin.com/in/codertheashish/)
+- Instagram :
+[codertheashish](https://www.instagram.com/codertheashish/)
 ---
 
-⭐ If you found this project useful, consider giving it a star on GitHub!
+⭐ If you like this portfolio, don't forget to give it a star on GitHub.
 
 <img width="1448" height="1086" alt="AR_hand_tracking" src="https://github.com/user-attachments/assets/a5a9798b-4830-46dd-8fe0-a8ef9f57eaed" />
