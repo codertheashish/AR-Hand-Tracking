@@ -1,4 +1,4 @@
-# ✋ Advanced Hand Tracking AR
+# ✋ AR Hand Tracking
 
 An immersive AI-powered Hand Tracking Augmented Reality experience built using MediaPipe Hands, HTML5 Canvas, CSS3, and JavaScript.
 
